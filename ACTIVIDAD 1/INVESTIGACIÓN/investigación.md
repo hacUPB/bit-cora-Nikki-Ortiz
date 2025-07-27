@@ -45,3 +45,4 @@ A (Address Register) es el registro de direcciones, aunque también puede funcio
 
 "PC" facilita la gestión de qué instrucción debe realizarse, esta se actualiza automáticamente o a través de instrucciones de salto, "A" contribuye a indicar la dirección en la memoria RAM para operaciones de lectura y/o escritura, también puede funcionar como un espacio de almacenamiento temporal en la CPU para almacenar cualquier valor requerido en un instante específico (números, datos, constantes, etc.) y "D" se encarga de indicar la dirección en la memoria
 
+ 
